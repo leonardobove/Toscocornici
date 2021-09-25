@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82780411050",
+    "project_id": "toscocornici-f6358",
+    "storage_bucket": "toscocornici-f6358.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82780411050:android:81e6ebd935c984db14acd3",
+        "android_client_info": {
+          "package_name": "com.example.toscocornici_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82780411050-lt2lpdp1reaeuaengsjhgs8lmla67hb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0LcLkPxXVzBmI5iVzUoEVfvEDnhLrVzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82780411050-lt2lpdp1reaeuaengsjhgs8lmla67hb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
